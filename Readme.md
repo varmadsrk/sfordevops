@@ -10,4 +10,7 @@
 ### Get RESET
 
 *	HARD RESET
+     - It will revert the commit and remove all the changes made to the files
+
 *	SOFT RESET
+    - It will revert last commit but keeps the changes in the file
