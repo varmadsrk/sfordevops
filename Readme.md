@@ -6,3 +6,8 @@
 *git config --global user.name "Name"*
 *git config --global user.email "User Email"*
 *git init . (for Initializing Empty repo)*
+
+### Get RESET
+
+*	HARD RESET
+*	SOFT RESET
