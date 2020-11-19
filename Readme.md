@@ -4,6 +4,7 @@
 
 ########GIT Initial Commands
 *git config --global user.name "Name"*
+
 *git config --global user.email "User Email"*
 *git init . (for Initializing Empty repo)*
 
